@@ -1,0 +1,118 @@
+.stat{
+    position: sticky;
+    top: 0px;
+    
+}
+
+
+#a{
+    background-color: black;
+    height: 40px;
+    
+}
+#aa{
+    color: aliceblue;
+    font-size: small;
+    height: 38px;
+    
+
+}
+#o{
+    height: 100px;
+}
+#oo{
+    margin-left: 146px;
+    
+}
+
+#b{
+    color: rgb(255, 255, 255);
+    margin-left: 0px;
+    
+}
+#ba{
+    margin-left: 230px;
+}
+#img{
+    height: 95px;
+}
+form{
+    margin-left: 129px;
+}
+#c{
+    color: black;
+   
+}
+#cc{
+    font-style: oblique;
+}
+#d{
+    text-align: center;
+    font-style: italic;
+}
+#dd{
+    margin-left: 25px;
+    
+}
+#e{
+    margin-left: 215px;
+    margin-bottom: 10px;
+    
+}
+#ee{
+    height: 224px;
+}
+#f{
+    margin-left: 183px;
+    margin-bottom: -21px;
+    font-style: italic;
+}
+#total{
+    margin-left: -95px;
+    margin-top: 50px;
+}
+#tex{
+    font-style: italic;
+}
+#ff{
+    height: 362px;
+    border-radius: 10px;
+    border-color: antiquewhite;
+}
+#total1{
+    margin-top: 30px;
+}
+#g{
+    margin-left: -12px;
+}
+#gg{
+    margin-left: 113px;
+    background-color: rgb(240, 240, 240);
+}
+#h{
+    background-color: rgb(240, 240, 240);
+
+}
+#hh{
+    font-size: small;
+}
+#i{
+    height: 139px;
+}
+#j{
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+#k{
+    margin-left: 550px;
+    margin-top: -50px;
+}
+#kk{
+    border-style: none;
+}
+#l{
+    margin-right: 170px;
+}
+.boxshadow :hover{
+    box-shadow: 5px 5px 20px black;
+}
